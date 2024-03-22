@@ -1,4 +1,5 @@
-# coverletter_gui
+# coverletter_cli
 
-안녕하세요.
-권민규입니다.
+Hello. This is SeworL.
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=HIX4123)](https://github.com/HIX4123/github-readme-stats)
